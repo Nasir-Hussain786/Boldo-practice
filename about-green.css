@@ -19,6 +19,7 @@ nav {
     display: flex;
     justify-content: center;
     gap: 650px;
+    margin-bottom: 93px;
 }
 
 header nav ul li{
@@ -42,4 +43,32 @@ nav ul {
     padding: 8px 40px;
     border-radius: 24px;
     font-weight: 700;
+}
+
+/* about text */
+.about-text{
+    color: #0A2640;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+/* we love text */
+.we-love-text{
+    font-size: 48px;
+    width: 570px;
+    line-height: 72px;
+}
+
+.funding-handshake-text{
+    font-size: 16px;
+    line-height: 28px;
+    width: 455px;
+    color: #0A2640;
+}
+
+.about-funding-text-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 240px;
 }
