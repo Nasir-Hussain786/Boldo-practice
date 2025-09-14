@@ -31,6 +31,7 @@ header nav ul li a{
     font-size: 16px;
     color: #0A2640;
     margin-right: 40px;
+    font-weight: 600;
 }
 
 nav ul {
@@ -70,5 +71,48 @@ nav ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 240px;
+    gap: 255px;
+}
+
+/* start section our-number-text */
+
+.our-number-text{
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: #0A2640;
+    margin-top: 94px;
+}
+
+.handshake-inforgrphic-text{
+    font-size: 48px;
+    line-height: 72px;
+    width: 800px;
+    text-align: center;
+    margin-bottom: 84px;
+}
+
+.our-number-text-handshake-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+/* one-twenty-m */
+.one-twenty-m{
+    font-size: 96px;
+    color: #0A2640;
+}
+
+.cool-feature-text{
+    font-size: 24px;
+    color: #0A2640;
+}
+
+.stats{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-bottom: 120px;
 }
