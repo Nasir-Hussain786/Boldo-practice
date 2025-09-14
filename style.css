@@ -150,3 +150,54 @@ header nav ul li a {
     align-items: center ;
     margin-top: 96px;
 }
+
+/* === end section === */
+
+/* === start new section === */
+
+.enterprise-with-two-btn-containter{
+    background-color: #0A2640;
+    padding: 72px 242px;
+    margin: 100px;
+    border-radius: 12px;
+    background-image: url(./assests/ellipe-circle-shape.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 715px;
+}
+
+.enterprise-with-two-btn{
+    font-size: 48px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 48px;
+    line-height: 72px;
+}
+
+.your-email-btn{
+    padding: 12px 158px 12px 32px;
+    font-size: 20px;
+    color: #000;
+    border-radius: 240px;
+    border: 2px solid #fff;
+    margin-right: 24px;
+    cursor: pointer;
+}
+
+.start-now-btn{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px 56px;
+    color:#0A2640;
+    background-color: #65E4A3;
+    border-radius: 56px;
+    border: 2px solid #65E4A3;
+    cursor: pointer;
+}
+
+.two-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
