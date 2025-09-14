@@ -201,3 +201,56 @@ header nav ul li a {
     justify-content: center;
     align-items: center;
 }
+
+/* === section end === */
+
+/* === start footer === */
+
+.boldo-with-para{
+    font-size: 16px;
+    line-height: 28px;
+    color: #777777;
+    width: 300px;
+    margin: 40px 0px 64px 0px;
+}
+
+.footer-logo ul li {
+    list-style-type: none;
+}
+
+.all-right-r{
+    font-size: 16px;
+    color: #777777;
+}
+
+#anchor-bold{
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.all-links li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #777777;
+}
+
+.all-links li{
+    margin-bottom: 32px;
+    list-style-type: none;
+}
+
+.hiring-bg-green{
+    color: #0A2640;
+    font-weight: 700;
+    background-color: #65E4A3;
+    border-radius: 120px;
+    padding: 5px 14px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 170px;
+}
