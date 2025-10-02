@@ -118,3 +118,40 @@ nav ul {
 }
 
 /* === section end === */
+
+/* start new section */
+.three-paras-container{
+    background-color: #0A2640;
+    padding: 120px 0px 120px 0px;
+    margin-bottom: 124px;
+}
+
+.our-story-text{
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 12px;
+}
+
+.marketcrowd-text{
+    font-size: 48px;
+    line-height: 72px;
+    width: 800px;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.conversion-angel-text{
+    font-size: 20px;
+    line-height: 32px;
+    width: 700px;
+    color: #F1F1F1;
+    
+}
+
+.three-paras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
