@@ -74,7 +74,7 @@ nav ul {
     gap: 255px;
 }
 
-/* start section our-number-text */
+/* === start section our-number-text === */
 
 .our-number-text{
     font-size: 20px;
@@ -116,3 +116,5 @@ nav ul {
     gap: 150px;
     margin-bottom: 120px;
 }
+
+/* === section end === */
