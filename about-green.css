@@ -155,3 +155,79 @@ nav ul {
     align-items: center;
     flex-direction: column;
 }
+
+/* === section end === */
+
+/* === Start new section our team === */
+.our-team-text{
+    font-size: 20px;
+    color: #777777;
+    margin-bottom: 12px;
+}
+
+.the-people-text{
+    font-size: 48px;
+    margin-bottom: 22px;
+}
+
+.conversion-deployment-text{
+    font-size: 20px;
+    color: #777777;
+    width: 750px;
+    line-height: 32px;
+}
+
+.our-team-text-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 56px;
+}
+
+.micheal-text{
+    font-size: 28px;
+    margin: 24px 0px 12px 0px;
+}
+
+.general-text{
+    color: #777777;
+    font-size: 20px;
+}
+
+.three-cards{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 75px;
+}
+
+.image-with-text{
+    display: flex;
+    align-items: center ;
+    gap: 24px;
+}
+
+.dwight-schrute-text{
+    font-size: 28px;
+    margin-bottom: 12px;
+}
+
+.general-manager-text{
+    font-size: 20px;
+    color: #777777;
+}
+
+.two-image-cards{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    margin-bottom: 46px;
+}
+
+.two-cards-image{
+      display: flex;
+    justify-content: center;
+    gap: 300px;
+    margin-bottom: 124px;
+}
