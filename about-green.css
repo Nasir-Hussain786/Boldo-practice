@@ -231,3 +231,35 @@ nav ul {
     gap: 300px;
     margin-bottom: 124px;
 }
+
+/* === section end === */
+
+/* start our blog section */
+
+.our-blog-container{
+    background-color: #0A2640;
+    padding-block: 120px;
+}
+
+.our-blog-text{
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: #fff;
+    text-align: center;
+}
+
+.value-accelerator-text{
+    font-size: 48px;
+    text-align: center;
+    width: 1000px;
+    line-height: 72px;
+    color: #fff;
+    padding-bottom: 64px;
+}
+
+.two-text-our-blog{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
