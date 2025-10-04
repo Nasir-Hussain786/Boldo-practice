@@ -239,6 +239,7 @@ nav ul {
 .our-blog-container{
     background-color: #0A2640;
     padding-block: 120px;
+    margin-bottom: 124px;
 }
 
 .our-blog-text{
@@ -251,7 +252,7 @@ nav ul {
 .value-accelerator-text{
     font-size: 48px;
     text-align: center;
-    width: 1000px;
+    width: 1070px;
     line-height: 72px;
     color: #fff;
     padding-bottom: 64px;
@@ -262,4 +263,43 @@ nav ul {
     justify-content: center;
     flex-direction: column;
     align-items: center;
+}
+
+/* we are text */
+
+.we-are-text{
+    font-size: 48px;
+    color: #fff;
+}
+
+.commited-text-green{
+    color: #65E4A3;
+}
+
+.first-mover-mass-text{
+    color: #F1F1F1;
+    font-size: 20px;
+    width: 500px;
+    line-height: 32px;
+}
+
+.we-are-commited-container{
+    display: flex;
+    justify-content: center;
+    margin: 84px 0px 80px 0px;
+    gap: 185px;
+}
+
+.we-responsible-container{
+    display: flex;
+    justify-content: center;
+    margin: 84px 0px 80px 0px;
+    gap: 145px;
+}
+
+.we-progress-container{
+    display: flex;
+    justify-content: center;
+    margin: 84px 0px 0px 0px;
+    gap: 125px;
 }
