@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+}
+
+header{
+    background-color: #0A2640;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 600px;
+    padding: 56px 0px 166px 0px;
+}
+
+#login-btn{
+    font-size: 16px;
+    color: #0A2640;
+    padding: 8px 40px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    border-radius: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+header nav ul li{
+    list-style-type: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+}
+
+header nav ul {
+    display: flex;
+}
+
+
