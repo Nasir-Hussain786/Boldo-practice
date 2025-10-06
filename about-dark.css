@@ -13,12 +13,15 @@ body {
 
 header{
     background-color: #0A2640;
+    padding: 56px 0px 166px 0px;
+}
+.main-container{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 600px;
-    padding: 56px 0px 166px 0px;
 }
+
 
 #login-btn{
     font-size: 16px;
@@ -46,4 +49,36 @@ header nav ul {
     display: flex;
 }
 
+/* about text style */
 
+.about-text{
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: #777777;
+    text-align: center;
+}
+
+.we-love-make-great{
+    font-size: 64px;
+    line-height: 84px;
+    width: 800px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 17px;
+}
+
+.Funding-buyer{
+    font-size: 16px;
+    color: #F1F1F1;
+    line-height: 28px;
+    width: 700px;
+    text-align: center;
+}
+
+.four-paras{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 72px;
+}
