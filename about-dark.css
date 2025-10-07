@@ -101,3 +101,29 @@ header nav ul {
 .talk-on-mobile{
     margin-bottom: 40px;
 }
+
+.our-story-text{
+    font-size: 20px;
+    color: #777777;
+    margin-bottom: 12px;
+}
+
+.deployment-beta-text{
+    font-size: 48px;
+    line-height: 72px;
+    margin-bottom: 30px;
+    width: 800px;
+}
+
+.sales-moteization-text{
+    color: #777777;
+    font-size: 20px;
+    line-height: 32px;
+    width: 750px;
+}
+
+.our-story-text-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 96px;
+}
