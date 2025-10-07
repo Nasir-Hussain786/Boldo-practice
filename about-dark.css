@@ -127,3 +127,46 @@ header nav ul {
     justify-content: center;
     margin-bottom: 96px;
 }
+
+/* === section end === */
+
+.our-number-container{
+    background-color: #0A2640;
+    padding: 96px 0px 96px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 96px;
+}
+
+.our-number-text{
+    color: #F1F1F1;
+    font-size: 20px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.mass-mar-text{
+    font-size: 48px;
+    line-height: 72px;
+    margin-bottom: 82px;
+    width: 800px;
+    text-align: center;
+    color: #fff;
+}
+
+.one-two-m , .ten-thousand-text ,.two-forty-text{
+    font-size: 96px;
+    color: #4FE9A4;
+}
+
+.cool-feature-text{
+    font-size: 24px;
+    color: #F1F1F1;
+}
+
+.stats-container{
+    display: flex;
+    gap: 141px;
+}
