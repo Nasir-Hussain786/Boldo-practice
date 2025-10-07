@@ -170,3 +170,45 @@ header nav ul {
     display: flex;
     gap: 141px;
 }
+
+/* our team text  style */
+.our-team-text{
+    font-size: 20px;
+    color: #777777;
+    margin-bottom: 12px;
+}
+
+.the-leadership-team-text{
+    font-size: 48px;
+    margin-bottom: 22px;
+}
+
+.traction-stock-text{
+    font-size: 20px;
+    color: #777777;
+    margin-bottom: 52px;
+    width: 750px;
+    line-height: 32px;
+}
+
+.our-team-text-container{
+    display: flex;
+    justify-content: center;
+}
+
+.michael-scott{
+    margin: 24px 0px 12px 0px;
+    font-size: 28px;
+}
+
+.general-manager{
+    font-size: 20px;
+    color: #777777;
+}
+
+.three-cards{
+    display: flex;
+    justify-content: center;
+    gap: 51px;
+    margin-bottom: 120px;
+}
