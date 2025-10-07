@@ -212,3 +212,52 @@ header nav ul {
     gap: 51px;
     margin-bottom: 120px;
 }
+
+/* === our values container === */
+
+.our-values-text-container{
+    background-color: #0A2640;
+    padding-block: 120px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 154px;
+}
+
+.our-values-text{
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: #fff;
+}
+
+.things-in-text{
+    font-size: 48px;
+    margin-bottom: 22px;
+    color: #fff;
+}
+
+.experience-beta-text{
+    font-size: 20px;
+    line-height: 32px;
+    color: #F1F1F1;
+    width: 750px;
+    margin-bottom: 72px;
+}
+
+.we-are-commited-container{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 72px;
+}
+
+.we-commited-text{
+    font-size: 28px;
+    margin-bottom: 16px;
+    color: #fff;
+}
+
+.handshake-text{
+    color: #F1F1F1;
+    font-size: 20px;
+    width: 600px;
+    line-height: 32px;
+}
