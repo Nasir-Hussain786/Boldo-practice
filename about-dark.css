@@ -249,6 +249,11 @@ header nav ul {
     margin-bottom: 72px;
 }
 
+.we-progress-container{
+    display: flex;
+    gap: 50px;
+}
+
 .we-commited-text{
     font-size: 28px;
     margin-bottom: 16px;
@@ -260,4 +265,122 @@ header nav ul {
     font-size: 20px;
     width: 600px;
     line-height: 32px;
+}
+
+
+.one-text-two-btn-container{
+    background-color: #0A2640;
+    padding-block: 72px;
+    width: 1200px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./assests/ellipe-circle-shape.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin-bottom: 84px;
+}
+
+
+.an-enterprise-template-text{
+    font-size: 48px;
+    line-height: 72px;
+    width: 700px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+
+.enterprise-with-two-btn{
+    font-size: 48px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 48px;
+    line-height: 72px;
+}
+
+.your-email-btn{
+    padding: 12px 158px 12px 32px;
+    font-size: 20px;
+    color: #000;
+    border-radius: 240px;
+    border: 2px solid #fff;
+    margin-right: 24px;
+    cursor: pointer;
+}
+
+.start-now-btn{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px 56px;
+    color:#0A2640;
+    background-color: #65E4A3;
+    border-radius: 56px;
+    border: 2px solid #65E4A3;
+    cursor: pointer;
+}
+
+.two-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* === section end === */
+
+/* === start footer === */
+
+.boldo-with-para{
+    font-size: 16px;
+    line-height: 28px;
+    color: #777777;
+    width: 300px;
+    margin: 40px 0px 64px 0px;
+}
+
+.footer-logo ul li {
+    list-style-type: none;
+}
+
+.all-right-r{
+    font-size: 16px;
+    color: #777777;
+    margin-bottom: 117px;
+}
+
+#anchor-bold{
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.all-links li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #777777;
+}
+
+.all-links li{
+    margin-bottom: 32px;
+    list-style-type: none;
+}
+
+.hiring-bg-green{
+    color: #0A2640;
+    font-weight: 700;
+    background-color: #65E4A3;
+    border-radius: 120px;
+    padding: 5px 14px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 170px;
 }
