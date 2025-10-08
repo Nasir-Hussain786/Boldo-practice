@@ -108,3 +108,60 @@ header nav ul {
     align-items: center;
     gap: 100px;
 }
+
+/* === our-services-text === */
+.our-services-container{
+    background-color: #0A2640;
+    padding: 84px 0px 96px 0px;
+    margin-bottom: 120px;
+}
+
+.our-services-text{
+    font-size: 20px;
+    color: #F1F1F1;
+    text-align: center;
+}
+
+.info-text{
+    font-size: 48px;
+    line-height: 72px;
+    width: 800px;
+    text-align: center;
+    color: #fff;
+}
+
+/* === info-text-our-services === */
+.info-text-our-services{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 72px;
+}
+
+.cool-title-text{
+    font-size: 24px;
+    margin: 24px 0px 28px 0px;
+    color: #fff;
+}
+
+.explore-page-text{
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    gap: 12px;
+}
+
+.cool-title-explore{
+    border-bottom: 2px solid #fff;
+    width: 165px;
+}
+
+.three-image-and-text{
+    display: flex;
+    justify-content: center;
+    gap: 99px;
+}
