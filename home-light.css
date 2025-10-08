@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+}
+
+header{
+    padding: 56px 0px 75px 0px;
+    background-image: url(./assests/header-back-circle-img.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 600px;
+    margin-bottom: 56px;
+}
+
+
+#login-btn{
+    font-size: 16px;
+    color: #0A2640;
+    border: 2px solid #0A2640;
+    padding: 8px 40px;
+    border-radius: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+header nav ul li{
+    list-style-type: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #0A2640;
+    font-weight: 600;
+    margin-right: 40px;
+    font-size: 16px;
+}
+
+header nav ul {
+    display: flex;
+}
+
+
+/* === save-time-text style === */
+
+.save-time-text{
+    font-size: 48px;
+    line-height: 72px;
+    width: 600px;
+    margin-bottom: 16px;
+}
+
+.advantage-text{
+    color: #777777;
+    font-size: 16px;
+    line-height: 28px;
+    width: 600px;
+    margin-bottom: 49px;
+}
+
+/* === buy-template-btn style === */
+.buy-template-btn{
+    background-color: #0A2640;
+    padding: 16px 56px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 56px;
+    border: 2px solid #0A2640;
+    font-weight: bold;
+    margin-right: 24px;
+    cursor: pointer;
+}
+
+/* === explore-btn style === */
+.explore-btn{
+    font-size: 20px;
+    color: #0A2640;
+    font-weight: 700;
+    padding: 16px 56px;
+    background-color: #fff;
+    border-radius: 56px;
+    border: 2px solid #0A2640;
+    cursor: pointer;
+}
+
+.hero-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 135px;
+}
+
+.hero-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+}
