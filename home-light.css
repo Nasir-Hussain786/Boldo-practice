@@ -202,6 +202,14 @@ header nav ul {
     margin-bottom: 24px;
 }
 
+.check-sing-container{
+    display: flex;
+    align-items: center;
+    gap: 27px;
+    font-size: 20px;
+    margin-bottom: 56px;
+}
+
 .start-now-btn{
     font-size: 20px;
     background-color: #0A2640;
@@ -223,5 +231,54 @@ header nav ul {
     align-items: center;
     justify-content: center;
     gap: 150px;
-    margin-bottom: 120px;
+    margin-bottom: 230px;
+}
+
+.the-best-text{
+    font-size: 36px;
+    line-height: 56px;
+    width: 493px;
+    margin-bottom: 64px;
+}
+
+.star-icon{
+    background-color: #0A2640;
+    width: 500px;
+    padding: 20px 53px 20px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.eye-icon-img{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 500px;
+    background-color: #fff;
+    font-size: 16px;
+    margin-bottom: 24px;
+    padding: 16px 53px 16px 20px;
+    border-radius: 4px;
+}
+
+.woman-position-container{
+    position: relative;
+}
+
+.woman-stat-img{
+    position: absolute;
+    top: 277px;
+    left: 17px;
+}
+
+.woman-stat-and-position-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
 }
