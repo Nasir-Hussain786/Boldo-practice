@@ -440,3 +440,92 @@ header nav ul {
     margin-top: 56px;
     margin-bottom: 156px;
 }
+
+.our-blog-title{
+    font-size: 20px;
+    color: #777777;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.value-acc-product-text{
+    font-size: 48px;
+    line-height: 72px;
+    width: 800px;
+    text-align: center;
+}
+
+/* === blog section style === */
+
+.blog-sec-img{
+    margin-bottom: 24px;
+}
+
+#category-text-dark-blue{
+    color: #0A2640;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 12px;
+}
+
+.month-text{
+    color: #777777;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.pitch-termsheet-text{
+    font-size: 20px;
+    width: 300px;
+    line-height: 32px;
+    margin-bottom: 30px;
+}
+
+.pitch-network-beta-text{
+    font-size: 20px;
+    width: 300px;
+    line-height: 32px;
+    margin-bottom: 30px;
+}
+
+.profile-info{
+    display: flex;
+    align-items: center;
+}
+
+.profile-text{
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+.load-more-btn{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 100px;
+    border-radius: 56px;
+    padding: 16px 56px;
+    border: 2px solid #0A2640;
+    background-color: #fff;
+    color: #0A2640;
+}
+
+.load-more-btn-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 124px;
+}
+
+
+.our-blog-title-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.our-blog-section-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
